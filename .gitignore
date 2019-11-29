@@ -2,6 +2,8 @@ ocpurple_client/node_modules/
 
 /node_modules/.cache/
 
+ocpurple_client/.idea/workspace.xml
+
 ocpurple_client/node_modules/.cache/ts-loader/0687adc385f0659ead93dbfd33e1df6c.json
 
 ocpurple_client/node_modules/.cache/ts-loader/0b6c62fe678716a39183ce233e23e4ac.json
